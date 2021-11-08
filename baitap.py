@@ -1,0 +1,1 @@
+print("Chào thầy Cương")
